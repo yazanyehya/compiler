@@ -6,12 +6,7 @@
  *
  * P machine compiler - code generation project
  *
- * Yosi Ben Asher
- * Email: yosibenasher@gmail.com
- *
- * Mariah Akree
- * Email: mariah.uni.haifa@gmail.com
- *
+ 
  **************************************/
 
 #include "main.h"
